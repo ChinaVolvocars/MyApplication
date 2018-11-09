@@ -1,1 +1,1 @@
-include ':app', ':viewpagerindicator'
+include ':app', ':viewpagerindicator', ':lib_looping_viewpager', ':lib_viewpager_indicator'

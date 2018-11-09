@@ -1,4 +1,4 @@
-package com.view.loop;
+package com.looping;
 
 import android.os.Parcelable;
 import android.support.v4.app.FragmentPagerAdapter;
